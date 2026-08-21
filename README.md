@@ -144,10 +144,6 @@ Reference examples:
   - reminders and notifications
   - export/share features for trainers or family members
 
-### Demo script
-
-- [docs/browser-demo-script.md](docs/browser-demo-script.md)
-
 ## Feature planning docs
 
 Traditional spec-driven files for future work live under:
